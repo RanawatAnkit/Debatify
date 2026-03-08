@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
+
+# Generated outputs
+outputs/
+
+# Vector files
+*.faiss
+*.index
+*.pkl
+
+# Large AI models
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
