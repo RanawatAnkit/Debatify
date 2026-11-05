@@ -1,0 +1,5 @@
+docling>=2.72.0
+faiss-cpu>=1.13.2
+sentence-transformers>=5.2.3
+numpy>=2.3.3
+requests>=2.32.5
